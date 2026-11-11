@@ -1,6 +1,6 @@
 name: eBUSd second instance
-version: "26.1.11"
-slug: ebusd second instance
+version: "26.2.11"
+slug: ebusd-second-instance
 description: >
   Run ebusd — a daemon for communicating with eBUS devices (heating systems connected
   to a 2-wire energy bus). A transparent wrapper of john30/ebusd; tracks upstream
