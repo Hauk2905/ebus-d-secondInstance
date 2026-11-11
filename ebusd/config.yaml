@@ -9,7 +9,7 @@ url: https://github.com/john30/ebusd
 arch:
   - aarch64
   - amd64
-image: "ghcr.io/hauki2905/ha-addon-ebusd-{arch}"
+image: "ghcr.io/hauk2905/ha-addon-ebusd-{arch}"
 
 init: false
 startup: services
