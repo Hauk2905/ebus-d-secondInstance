@@ -1,5 +1,5 @@
 name: eBUSd second instance
-version: "26.1.10"
+version: "26.1.11"
 slug: ebusd second instance
 description: >
   Run ebusd — a daemon for communicating with eBUS devices (heating systems connected
