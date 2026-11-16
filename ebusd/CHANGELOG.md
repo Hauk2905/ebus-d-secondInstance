@@ -1,3 +1,19 @@
+# Unreleased
+
+## App Changes
+* Update ebusd to [26.1](https://github.com/john30/ebusd/releases/tag/26.1)
+
+# 26.1 (2026-02-08)
+## Bug Fixes
+* fix potential memory leak
+* fix reading write only and broadcast messages from cache
+
+## Features
+* add support for more than one level of load instructions
+* add "--mqttcaos" option
+
+
+
 # 26.1.10 (2026-10-22)
 
 ## Bug Fixes
